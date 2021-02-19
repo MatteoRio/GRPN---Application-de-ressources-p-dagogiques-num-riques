@@ -1,1 +1,1 @@
-# GRPN---Application-de-ressources-p-dagogiques-num-riques
+# GRPN - Application-de-ressources-pedagogiques-numeriques
